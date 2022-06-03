@@ -13,6 +13,9 @@ function Nav() {
       <a className={Styles.link} href="/about">
         About
       </a>
+      <a className={Styles.link} href="mailto:srmclin93@yahoo.com">
+        Contact
+      </a>
       <a className={Styles.link} href="https://ko-fi.com/seanmclin">
         Ko-fi
       </a>
