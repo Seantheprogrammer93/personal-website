@@ -11,6 +11,6 @@ tags:
   - branding
 ---
 
-🔗 https:/www.web.ngo
+🔗 https://www.web.ngo
 
 This project is a work in progress...
